@@ -1,0 +1,6 @@
+{
+  "name": "Chef Is",
+  "description": "An organic meal assistant that recommends mouthwatering sustainable recipes based on photos of your ingredients, veggies, and fruits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

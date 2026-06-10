@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-files-path name="chef_is_images" path="Pictures" />
+    <cache-path name="chef_is_cache" path="/" />
+</paths>
